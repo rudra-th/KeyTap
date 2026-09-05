@@ -1,0 +1,27 @@
+{
+  "name": "SpeedLab — Precision Speed Testing",
+  "short_name": "SpeedLab",
+  "description": "CPS, typing speed, and reaction time tester. Works offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#08060F",
+  "theme_color": "#7C5CFF",
+  "lang": "en",
+  "categories": ["productivity", "utilities", "games"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

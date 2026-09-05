@@ -1,0 +1,12 @@
+{
+  "name": "speedlab",
+  "version": "1.0.0",
+  "description": "SpeedLab — precision CPS, typing speed, and reaction time tester.",
+  "scripts": {
+    "start": "live-server . --port=3000 --open",
+    "dev": "live-server . --port=3000 --open"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
