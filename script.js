@@ -785,7 +785,7 @@ function cpsReset() {
 /* ══════════════════════════════════════════════════════
    TYPING  TEST
 ══════════════════════════════════════════════════════ */
-const ROW_DEF = 48; // word-height(30) + row-gap(18) — recomputed after render
+const ROW_DEF = 58; // word-height(36) + row-gap(22) — recomputed after render
 
 let typ = {
   subMode:'time',  // time | words | quote | endurance
